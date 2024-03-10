@@ -29,7 +29,7 @@ or
 ```bash
 curl -sS -O https://raw.githubusercontent.com/kejilion/sh/main/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 ```
-源地址（https://github.com/kejilion）
+【項目源地址】(https://github.com/kejilion)
 ***
 
 
